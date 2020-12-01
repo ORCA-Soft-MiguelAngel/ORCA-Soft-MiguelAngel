@@ -88,7 +88,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ORCA-Soft-MiguelAngel&repo=E-Commerce-Kissha" />
   </a>
   <a href="https://github.com/ORCA-Soft-MiguelAngel/Calculadora_React-Native">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ORCA-Soft-MiguelAngel&repo=Calculator-app-mobile" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ITLA-Projects&repo=Calculator-app-mobile" />
   </a>
 </p>
 
