@@ -48,6 +48,7 @@
 <p align="left">
 	<img style="margin: auto;" src="https://i.imgur.com/jWzg7x6.png" alt="html5" width="60" height="60"/> 
 	<img style="margin: auto;" src="https://i.imgur.com/v8qBQnf.png" alt="css3" width="60" height="60"/> 
+	<img style="margin: auto;" src="https://i.imgur.com/FUAT46V.png" alt="tailwindcss" width="60" height="60"/> 
 	<img style="margin: auto;" src="https://i.imgur.com/zxfxsn3.png" alt="bootstrap" width="60" height="60"/>
   <img style="margin: auto;" src="https://i.imgur.com/DAw3Ay1.png" alt="sass" width="60" height="60"/>
 	<img style="margin: auto;" src="https://i.imgur.com/SceNgxk.png" alt="react" width="60" height="60"/>
@@ -71,6 +72,7 @@
 
 <h4>Deploy and Team environments </h4>
 <p align="left">
+ <img style="margin: auto;" src="https://i.imgur.com/DdkDgsm.png" alt="aws" width="60" height="60"/>
   <img style="margin: auto;" src="https://i.imgur.com/5kAjpHr.png" alt="heroku" width="60" height="60"/>
   <img style="margin: auto;" src="https://i.imgur.com/MxMivIR.png" alt="netlify" width="60" height="60"/>
   <img style="margin: auto;" src="https://i.imgur.com/zXdF0zZ.png" alt="slack" width="60" height="60"/>
