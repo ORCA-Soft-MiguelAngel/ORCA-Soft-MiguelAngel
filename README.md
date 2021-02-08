@@ -72,7 +72,7 @@
 
 <h4>Deploy and Team environments </h4>
 <p align="left">
- <img style="margin: auto;" src="https://i.imgur.com/DdkDgsm.png" alt="aws" width="60" height="60"/>
+ <img style="margin: auto;" src="https://www.pinclipart.com/picdir/big/487-4874977_schneeflocke-clipart.png" alt="aws" width="60" height="60"/>
   <img style="margin: auto;" src="https://i.imgur.com/5kAjpHr.png" alt="heroku" width="60" height="60"/>
   <img style="margin: auto;" src="https://i.imgur.com/MxMivIR.png" alt="netlify" width="60" height="60"/>
   <img style="margin: auto;" src="https://i.imgur.com/zXdF0zZ.png" alt="slack" width="60" height="60"/>
