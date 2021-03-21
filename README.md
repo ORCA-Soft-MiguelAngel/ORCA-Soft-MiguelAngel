@@ -23,6 +23,7 @@
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Music, Manga and Games**❤
 - 📫 How to reach me **miguelangelpena.dev@gmail.com**
+- 📢 Check my Portfolio! **[Miguel Angel](https://miguelangel.netlify.app/)**
 
 <br/>
 
@@ -94,4 +95,4 @@
   </a>
 </p>
 
-⭐️ Cooming soon our webpage [Orca-Soft](#) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```where you can see all our projects and courses!!``
+⭐️ Check my portfolio!! [Miguel Angel](https://miguelangel.netlify.app/) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```where you can see all our projects and courses!!``
